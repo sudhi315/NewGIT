@@ -31,5 +31,13 @@ public class SeleniumTest {
 		System.out.println("login");
 
 	}
+	@Test
+	public void login3()
+	{
+		System.out.println("login");
+		System.out.println("login");
+		System.out.println("login");
+
+	}
 
 }
