@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" ignored="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Suite" duration-ms="40" started-at="2020-04-12T13:14:10Z" finished-at="2020-04-12T13:14:10Z">
+    <groups>
+    </groups>
+    <test name="Test" duration-ms="40" started-at="2020-04-12T13:14:10Z" finished-at="2020-04-12T13:14:10Z">
+      <class name="TestCases.SeleniumTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.SeleniumTest@79b4d0f]" name="login" duration-ms="0" started-at="2020-04-12T18:44:10Z" finished-at="2020-04-12T18:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestCases.SeleniumTest -->
+      <class name="TestCases.closeTest">
+        <test-method status="PASS" signature="login()[pri:0, instance:TestCases.closeTest@3cda1055]" name="login" duration-ms="10" started-at="2020-04-12T18:44:10Z" finished-at="2020-04-12T18:44:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- login -->
+      </class> <!-- TestCases.closeTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
