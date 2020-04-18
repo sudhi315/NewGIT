@@ -9,4 +9,16 @@ public class closeTest {
 	{
 		System.out.println("close");
 	}
+	
+	@Test
+	public void login1()
+	{
+		System.out.println("close");
+	}
+	
+	@Test
+	public void login2()
+	{
+		System.out.println("close");
+	}
 }
